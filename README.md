@@ -32,3 +32,5 @@ User-empathetic landing page as a part of dashboard design
 
 Screenshot Description2:
 Data modelling involving 10+ tables
+
+Live DashBoard Link:- [https://app.powerbi.com/groups/me/reports/c0044cd8-76dc-4a4e-91a0-9e8851d8e588/ReportSection283b9ebc10dd00213b8b?experience=power-bi]
